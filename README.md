@@ -33,9 +33,6 @@ EstimatedSalary: The estimated salary of the customer
 
 Churned: The target variable, indicating if the customer has churned (1) or not (0)
 
-### Objective
-The objective of this project is to build a Logistic Regression model to predict whether a customer will churn. The model will take customer features as input and predict the likelihood of the customer leaving the company.
-
 ### Approach
 Data Preprocessing:
 
